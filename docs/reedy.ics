@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//JLGG//FISD Athletics Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Reedy HS Varsity (Basketball, Baseball, Soccer, Football)
+X-WR-CALNAME:Reedy HS Boys Varsity (Basketball, Baseball, Soccer, Football)
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -25,20 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ebd770f6-ecb4-4dd6-8875-ac6ea1180178@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261201T183000
-DTEND;TZID=America/Chicago:20261201T193000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Wylie High School Wylie
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nNon - District\nMap: https://ma
- ps.google.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\n
- Source: https://www.friscoisd.org/page/high-school-varsity-athletics-sched
- ule
-END:VEVENT
-BEGIN:VEVENT
 UID:b254f8df-692e-4c65-b1f2-61a09ae876dd@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Frisco Liberty High
@@ -48,21 +36,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nMap: https://map
   https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:256ca8b7-822d-49ae-aa9a-b18794ea5c4f@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261204T180000
-DTEND;TZID=America/Chicago:20261204T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Mansfield High School Lady Ti
- gers
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nNon - District\nMap: https://ma
- ps.google.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\n
- Source: https://www.friscoisd.org/page/high-school-varsity-athletics-sched
- ule
-END:VEVENT
-BEGIN:VEVENT
 UID:19052080-8513-48ad-96bd-ea7c8ab7f28e@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261208T193000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Wylie East High School Wylie E
@@ -75,7 +50,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nNon - District\nMap: https://map
 END:VEVENT
 BEGIN:VEVENT
 UID:d0aebcc6-9be8-4c19-9aaa-6be69379e060@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -87,7 +62,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:0372897d-c6d1-4a15-a633-f6daf23c64e8@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -98,33 +73,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
  https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:56e2a21a-caf2-4be8-a05e-087270976ce2@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261211T184500
-DTEND;TZID=America/Chicago:20261211T194500
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Sunnyvale High School LADY RA
- IDERS
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nNon - District\nMap: https://ma
- ps.google.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\n
- Source: https://www.friscoisd.org/page/high-school-varsity-athletics-sched
- ule
-END:VEVENT
-BEGIN:VEVENT
-UID:1bdee825-d1de-456c-9a96-09dfd4fb75ec@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261211T191500
-DTEND;TZID=America/Chicago:20261211T210000
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Hebron High School Hebron
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nScrimmage\nMap: https://maps.google
- .com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: h
- ttps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:ee0fb97e-6108-4445-a92d-473b11c25a34@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261211T193000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Hebron High School Hebron
@@ -135,7 +85,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nScrimmage\nMap: https://maps.google.
 END:VEVENT
 BEGIN:VEVENT
 UID:76477102-7b7b-487e-a5e4-24c6b858346e@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -146,32 +96,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
  https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:e373834f-b3e4-42c8-9a35-f25e88e9d4e5@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261215T173000
-DTEND;TZID=America/Chicago:20261215T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Walnut Grove HS Varsity
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nScrimmage\nMap: https://maps.google
- .com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: h
- ttps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:7d5fe31f-5251-40e9-af14-6bcf1fa61dcb@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261215T180000
-DTEND;TZID=America/Chicago:20261215T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Panther Creek HS Panther Cree
- k
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:c2f511ac-6f2a-4820-a840-5b350981eda4@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Irving High School Irving
@@ -180,7 +106,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nScrimmage\nLocation: Irving HS\nSour
 END:VEVENT
 BEGIN:VEVENT
 UID:10200682-c8b9-4207-ae3b-a6e0ecdde1cb@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Chisholm Trail High School CTHS
@@ -189,31 +115,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nSource: https://
  www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:62d1cfb9-5434-4382-96a2-b29ca19bc8ac@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261218T173000
-DTEND;TZID=America/Chicago:20261218T190000
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Wakeland HS Wakeland
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nScrimmage\nMap: https://maps.google
- .com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: h
- ttps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:78a487cf-d79d-4f76-ada9-d79da8e23b42@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261218T180000
-DTEND;TZID=America/Chicago:20261218T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ The Colony HS The Colony
-LOCATION:The Colony HS\, 4301 Blair Oaks\, The Colony\, TX 75056
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=4301%20Blair%20Oaks%2C%20The%20Colony%2C%20TX%2075056\nSource: 
- https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:453dd643-dab6-4e80-bad2-a6e09d1e1a70@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261218T191500
 DTEND;TZID=America/Chicago:20261218T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ The Colony HS TC Varsity
@@ -224,7 +127,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:0a77c9ce-a475-4842-bcf1-d4138745898b@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261218T191500
 DTEND;TZID=America/Chicago:20261218T201500
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Wakeland HS Wakeland
@@ -235,20 +138,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nScrimmage\nMap: https://maps.google.
  tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:f3802164-8143-45f9-828b-522a99aef42f@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261221T111500
-DTEND;TZID=America/Chicago:20261221T121500
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Denton High School Lady Bronc
- os
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:e2526b5a-48fc-4e67-92ea-4d1d969e126a@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261221T124500
 DTEND;TZID=America/Chicago:20261221T143000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Denton High School DHS Boys Ba
@@ -260,7 +151,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:455dcd0a-3fd9-4899-95b1-46a3d60c09be@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -271,20 +162,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
  e: https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:69b672e9-bdae-4f7e-b6f4-e8625c780566@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261228T120000
-DTEND;TZID=America/Chicago:20261228T130000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Manfield Legacy
-LOCATION:Toyota Stadium\, 9200 World Cup Way\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nField #9\nMap: https://
- maps.google.com/?q=9200%20World%20Cup%20Way%2C%20Frisco%2C%20TX%2075034\nS
- ource: https://www.friscoisd.org/page/high-school-varsity-athletics-schedu
- le
-END:VEVENT
-BEGIN:VEVENT
 UID:e1d6aad8-8dab-408f-bc1e-8fcd6bc2eb06@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261228T160000
 DTEND;TZID=America/Chicago:20261228T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Garland HS Garland Owls
@@ -295,18 +174,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nFISD Tournament (Away) -
  -varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:79c559e5-5e08-48f4-901c-03ca250b3230@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:Girls Varsity Basketball: Reedy HS @ DISD Holiday Invitational (tim
- e TBD)
-DESCRIPTION:Girls Varsity Basketball\nAway\nTournament\nSource: https://www
- .friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:0549b2e3-b857-469d-9c66-a660a7880306@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -318,7 +187,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:e1317709-81bb-4b2b-9a49-f49893bfd6c8@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261229T140000
 DTEND;TZID=America/Chicago:20261229T160000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Nacogdoches High School Dragons
@@ -329,20 +198,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nFISD Tournament (Away) -
  -varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:d175aa4b-2bf9-4f1a-aae6-451f1a2e63c5@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20261229T160000
-DTEND;TZID=America/Chicago:20261229T170000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ EP Del Valle
-LOCATION:Toyota Stadium\, 9200 World Cup Way\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nField #16\nMap: https:/
- /maps.google.com/?q=9200%20World%20Cup%20Way%2C%20Frisco%2C%20TX%2075034\n
- Source: https://www.friscoisd.org/page/high-school-varsity-athletics-sched
- ule
-END:VEVENT
-BEGIN:VEVENT
 UID:612f83db-7c6f-488b-a50b-dff580c33c71@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -354,7 +211,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:26367b2f-b2d0-4dd8-b2ea-b26c37470153@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20261230T130000
 DTEND;TZID=America/Chicago:20261230T150000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Sachse HS Sachse Mustangs
@@ -366,7 +223,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nTournament\nFISD Tournament (Away) -
 END:VEVENT
 BEGIN:VEVENT
 UID:6780f793-eb29-4137-91d6-55e1806a8931@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270101T120000
 DTEND;TZID=America/Chicago:20270101T133000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Walnut Grove HS Varsity
@@ -378,31 +235,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nMap: https://map
  le
 END:VEVENT
 BEGIN:VEVENT
-UID:3d47a1ae-fa5c-4222-903d-e6b5485d2c1f@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270105T173000
-DTEND;TZID=America/Chicago:20270105T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Lebanon Trail HS Lebanon Trail HS
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nNon - District\nMap: https://maps.g
- oogle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSour
- ce: https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:7ed2d1d1-61ab-4771-9fcb-0f52f716fc1b@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270105T180000
-DTEND;TZID=America/Chicago:20270105T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ Lone Star HS Lone Star
-LOCATION:Frisco Lone Star HS\, 2606 Panther Creek Pkwy\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=2606%20Panther%20Creek%20Pkwy%2C%20Frisco%2C%20TX%2075034\nSour
- ce: https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:c381e2be-6042-40f6-8c57-a29293cb6b92@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270105T191500
 DTEND;TZID=America/Chicago:20270105T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Lone Star HS Lone Star
@@ -412,21 +246,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
  e: https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:41d51e36-1e6a-404d-9429-65f085dda67b@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270107T080000
-DTEND;TZID=America/Chicago:20270107T090000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ McKinney Boyd High School Lady Bro
- ncos
-LOCATION:Children's Health Stadium\, 2000 Stadium Drive\, Prosper\, TX 7507
- 8
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nMap: https://maps.googl
- e.com/?q=2000%20Stadium%20Drive%2C%20Prosper%2C%20TX%2075078\nSource: http
- s://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:494948b5-62c0-4a11-8ff5-3e176cd925e2@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270107T123000
 DTEND;TZID=America/Chicago:20270107T133000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ RL Turner HS RL Turner
@@ -437,31 +258,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Home)\
  -athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:014868ef-1df0-4c74-8177-d4abf84c55b4@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270108T100000
-DTEND;TZID=America/Chicago:20270108T110000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Marcus High School Marcus
-LOCATION:Children's Health Stadium\, 2000 Stadium Drive\, Prosper\, TX 7507
- 8
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nMap: https://maps.googl
- e.com/?q=2000%20Stadium%20Drive%2C%20Prosper%2C%20TX%2075078\nSource: http
- s://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:85c3df3f-9017-434e-bb09-497d0be60288@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270108T180000
-DTEND;TZID=America/Chicago:20270108T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Denton Ryan High School 
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:b899e0a5-5835-40f9-a42b-cdef0aefa535@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270108T191500
 DTEND;TZID=America/Chicago:20270108T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Ryan High School Raiders
@@ -472,7 +270,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:fa72bd8b-6c1a-429b-8a5a-c08241462122@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270108T200000
 DTEND;TZID=America/Chicago:20270108T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Woodrow Wilson HS
@@ -484,7 +282,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Away)\
 END:VEVENT
 BEGIN:VEVENT
 UID:1987c273-6331-4a70-aa4e-117213d19e0c@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270109T140000
 DTEND;TZID=America/Chicago:20270109T150000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ North Forney Falcon Soccer
@@ -495,32 +293,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Home)\
  hedule
 END:VEVENT
 BEGIN:VEVENT
-UID:7b715c7b-1ed7-4f93-a4a6-4ec713d01817@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270109T140000
-DTEND;TZID=America/Chicago:20270109T150000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ McKinney High School Lionettes
-LOCATION:Children's Health Stadium\, 2000 Stadium Drive\, Prosper\, TX 7507
- 8
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nMap: https://maps.googl
- e.com/?q=2000%20Stadium%20Drive%2C%20Prosper%2C%20TX%2075078\nSource: http
- s://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:8c7d6ba7-1876-4bb1-8987-a7be64db1113@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270112T180000
-DTEND;TZID=America/Chicago:20270112T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ Prosper Richland High School
-LOCATION:Prosper Richland High School\, 3450 Prairie Drive\, Prosper\, TX 7
- 5078
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=3450%20Prairie%20Drive%2C%20Prosper%2C%20TX%2075078\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:f610b082-6735-4b74-aef4-c67605e985c5@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270112T191500
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Richland HS Varsity
@@ -531,18 +305,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:931244ca-81d0-4bd9-8738-e35d310498b2@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270114T143000
-DTEND;TZID=America/Chicago:20270114T153000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Lake Creek High School LCHS SOC V
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nBirkelbach Stadium 2275
-  N. Austin Avenue\, Georgetown\, TX\, 78626\nSource: https://www.friscoisd
- .org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:6a3c768d-6e4d-4372-aaad-760102eccefe@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270114T164500
 DTEND;TZID=America/Chicago:20270114T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Summit High School Jaguars
@@ -553,18 +317,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
  -athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:cd382bcc-7c8d-4164-8fd4-32c4cf2e7074@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270115T123000
-DTEND;TZID=America/Chicago:20270115T133000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Barbers Hill High School Eagles
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nAUX Field 2275 N. Austi
- n Avenue\, Georgetown\, TX\, 78626\nSource: https://www.friscoisd.org/page
- /high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:9d8480a8-b130-45f6-a760-7841a33bdafa@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270115T164500
 DTEND;TZID=America/Chicago:20270115T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Little Elm High School Lobos
@@ -576,18 +330,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
  ol-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:3126f8c3-eb65-408e-bf40-dd51765c90aa@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270116T090000
-DTEND;TZID=America/Chicago:20270116T100000
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Midway
-DESCRIPTION:Girls Varsity Soccer\nAway\nTournament\nEastview HS 4490 E. Uni
- versity Avenue\, Georgetown\, TX\, 78626\nSource: https://www.friscoisd.or
- g/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:d4b508eb-2306-4bb5-b618-268e449c2fa4@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270116T113000
 DTEND;TZID=America/Chicago:20270116T120000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Flower Mound HS Flower Mound
@@ -598,19 +342,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
  -athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:343666f9-8576-48e0-a80a-557189131237@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270119T180000
-DTEND;TZID=America/Chicago:20270119T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ Panther Creek HS Panther Creek
-LOCATION:Frisco-Panther Creek HS\, 1875 PGA Parkway\, Frisco\, TX 75033
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=1875%20PGA%20Parkway%2C%20Frisco%2C%20TX%2075033\nSource: https
- ://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:5f2b6c6d-b377-4801-9f7a-ea933747ea59@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270119T191500
 DTEND;TZID=America/Chicago:20270119T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Panther Creek HS Panther Creek
@@ -620,31 +353,8 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
  ww.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:ff3459eb-2063-40f6-aff5-7a66b99e4249@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270122T173000
-DTEND;TZID=America/Chicago:20270122T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Princeton HS Panthers
-LOCATION:Princeton ISD-Hendricks Stadium\, 700 Panther Pkwy\, Princeton\, T
- X 75407
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=700%20Panther%20Pkwy%2C%20Princeton%2C%20TX%2075407\nSource: https:
- //www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:561ebe36-2cf4-48fa-a094-19347dc37efc@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270122T180000
-DTEND;TZID=America/Chicago:20270122T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs The Colony HS The Colony
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:c4fb32a8-6dd2-496b-809b-2deaa2f79950@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270122T191500
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs The Colony HS TC Varsity
@@ -654,32 +364,8 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
   https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:90bac496-9615-43c4-a776-d1009890ccc8@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270126T173000
-DTEND;TZID=America/Chicago:20270126T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Panther Creek HS Panther Creek
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:e6e128ec-1395-43e3-9535-cfbd99c73da7@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270126T180000
-DTEND;TZID=America/Chicago:20270126T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ Denton High School Lady Bronco
- s
-LOCATION:Denton HS\, 1007 Fulton\, Denton\, TX 76201
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=1007%20Fulton%2C%20Denton%2C%20TX%2076201\nSource: https://www.
- friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:3d5fdce3-9b58-4e9c-833a-d6d0539ee071@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270126T191500
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Denton High School DHS Boys Bas
@@ -691,7 +377,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:a1fe90bd-6260-45e9-be3b-0df000b431ed@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270126T193000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Panther Creek HS Panther Creek
@@ -701,30 +387,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
  w.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:90b2be36-b070-42b7-829b-c0745ef28b80@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270129T173000
-DTEND;TZID=America/Chicago:20270129T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ The Colony HS The Colony
-LOCATION:The Colony HS\, 4301 Blair Oaks\, The Colony\, TX 75056
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=4301%20Blair%20Oaks%2C%20The%20Colony%2C%20TX%2075056\nSource: http
- s://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:ec157738-3ca1-45c1-aa8e-e3a94f637bb2@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270129T180000
-DTEND;TZID=America/Chicago:20270129T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Lone Star HS Lone Star
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:219636a2-8879-481e-8c92-3f1a8b3a33ba@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270129T191500
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Lone Star HS Lone Star
@@ -735,7 +399,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:7ab6d3b0-f0e4-475c-870c-bcc50a7b5d1c@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270129T191500
 DTEND;TZID=America/Chicago:20270129T204500
 SUMMARY:Boys Varsity Soccer: Reedy HS vs The Colony HS The Colony
@@ -746,31 +410,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:5b6f071c-2bd0-4593-92e6-42a2eabf3b34@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270202T173000
-DTEND;TZID=America/Chicago:20270202T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Denton High School Lady Broncos
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:14dbb821-93fb-4844-834a-ddeb566970b9@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270202T180000
-DTEND;TZID=America/Chicago:20270202T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS @ Denton Ryan High School
-LOCATION:Denton Ryan HS\, 5101 E McKinney\, Denton\, TX 76208
-DESCRIPTION:Girls Varsity Basketball\nAway\nDistrict\nMap: https://maps.goo
- gle.com/?q=5101%20E%20McKinney%2C%20Denton%2C%20TX%2076208\nSource: https:
- //www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:22cdf981-03c4-4d3b-aad2-96e7c886707e@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270202T191500
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Ryan High School Raiders
@@ -781,7 +422,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:4723c22c-d817-45e1-81e6-2f057d8c0fff@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Denton High School DHS Boys Soccer
@@ -791,30 +432,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
  oisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:b524951e-39c7-4b85-9e4d-de88946380b8@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270205T173000
-DTEND;TZID=America/Chicago:20270205T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Lone Star HS Lone Star
-LOCATION:Lone Star HS\, 2606 Panther Creek Pkwy.\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=2606%20Panther%20Creek%20Pkwy.%2C%20Frisco%2C%20TX%2075034\nSource:
-  https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:18efe0b0-38da-487d-9f48-eb5c0e713612@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270205T180000
-DTEND;TZID=America/Chicago:20270205T190000
-SUMMARY:Girls Varsity Basketball: Reedy HS vs Prosper Richland High School
-LOCATION:Reedy Gym-Main\, 3003 Stonebrook Parkway\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Basketball\nHome\nDistrict\nMap: https://maps.goo
- gle.com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource
- : https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:aa26cc71-7c2e-4511-be80-4a587f9ddffb@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270205T191500
 DTEND;TZID=America/Chicago:20270205T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Richland HS Varsity
@@ -825,7 +444,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:0745e57e-b990-4d1b-80ef-da373015c998@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270205T193000
 DTEND;TZID=America/Chicago:20270205T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Lone Star HS Lone Star
@@ -836,20 +455,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:9fa97988-6d01-457d-b519-0a23675f02c2@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270209T173000
-DTEND;TZID=America/Chicago:20270209T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Denton Ryan HS
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:56d9030f-e92f-4b96-9d30-ba692b3f2515@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270209T193000
 DTEND;TZID=America/Chicago:20270209T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Ryan High School Raiders
@@ -859,20 +466,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
  .friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:9aab1d73-54a9-44d7-8aaa-9220c8c4b531@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270212T173000
-DTEND;TZID=America/Chicago:20270212T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Prosper Richland
-LOCATION:Prosper Richland High School\, 3450 Prairie Drive\, Prosper\, TX 7
- 5078
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=3450%20Prairie%20Drive%2C%20Prosper%2C%20TX%2075078\nSource: https:
- //www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:37b0339e-1791-4579-b1a6-96a45c8fca54@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270212T191500
 DTEND;TZID=America/Chicago:20270212T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Panther Creek HS Panther Creek
@@ -883,7 +478,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:d39319eb-1184-42c4-916e-456608e9f2ef@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270212T193000
 DTEND;TZID=America/Chicago:20270212T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Richland HS Varsity
@@ -894,19 +489,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:8030381a-3b2d-4fe8-a113-fa136d76abd8@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270219T173000
-DTEND;TZID=America/Chicago:20270219T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Panther Creek HS Panther Creek
-LOCATION:Panther Creek High School\, 1875 PGA Pkwy\, Frisco\, TX 75034
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=1875%20PGA%20Pkwy%2C%20Frisco%2C%20TX%2075034\nSource: https://www.
- friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:a80c24e5-5478-458e-8527-30216be619f3@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270219T193000
 DTEND;TZID=America/Chicago:20270219T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Panther Creek HS Panther Creek
@@ -917,20 +501,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:2d65b186-ce88-4a99-8171-46c0c8d393a5@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270223T173000
-DTEND;TZID=America/Chicago:20270223T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs The Colony HS The Colony
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:d6366c8a-ac1a-4d15-85b6-439c4421a8db@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270223T191500
 DTEND;TZID=America/Chicago:20270223T204500
 SUMMARY:Boys Varsity Soccer: Reedy HS @ The Colony HS The Colony
@@ -941,19 +513,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
   https://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:6344c6fd-df48-4d66-b1bd-b7307c7ffe38@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270226T173000
-DTEND;TZID=America/Chicago:20270226T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Denton High School Lady Broncos
-LOCATION:Denton HS\, 1007 Fulton\, Denton\, TX 76201
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=1007%20Fulton%2C%20Denton%2C%20TX%2076201\nSource: https://www.fris
- coisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:71b04498-ee63-4df1-9840-5d805e6829ef@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270226T193000
 DTEND;TZID=America/Chicago:20270226T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Denton High School DHS Boys Soccer
@@ -964,20 +525,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:6cc375b9-1a81-4f96-871b-564cb0d4a861@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270302T173000
-DTEND;TZID=America/Chicago:20270302T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Lone Star HS Lone Star
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:b53dc3cc-64d9-4c8d-b7f1-97994c4ceabf@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270302T193000
 DTEND;TZID=America/Chicago:20270302T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Lone Star HS Lone Star
@@ -987,19 +536,8 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
  ttps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:ff433b60-4632-40a9-ae6b-3736a506aa25@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270305T173000
-DTEND;TZID=America/Chicago:20270305T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS @ Denton Ryan HS
-LOCATION:Denton Ryan HS\, 5101 E McKinney\, Denton\, TX 76208
-DESCRIPTION:Girls Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.
- com/?q=5101%20E%20McKinney%2C%20Denton%2C%20TX%2076208\nSource: https://ww
- w.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:dcc3b573-b8c3-4562-83ba-64be288a72d0@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270305T193000
 DTEND;TZID=America/Chicago:20270305T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Ryan High School Raiders
@@ -1010,20 +548,8 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
  ps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:a209a2bf-1f3c-467c-8f09-7f70a462deea@fisd-athletics
-DTSTAMP:20261125T165823Z
-DTSTART;TZID=America/Chicago:20270309T173000
-DTEND;TZID=America/Chicago:20270309T191500
-SUMMARY:Girls Varsity Soccer: Reedy HS vs Prosper Richland 
-LOCATION:Reedy HS Football Field\, 3003 Stonebrook Parkway\, Frisco\, TX 75
- 034
-DESCRIPTION:Girls Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.
- com/?q=3003%20Stonebrook%20Parkway%2C%20Frisco%2C%20TX%2075034\nSource: ht
- tps://www.friscoisd.org/page/high-school-varsity-athletics-schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:e70c8465-3e5e-4875-a7c9-39f4015f5e76@fisd-athletics
-DTSTAMP:20261125T165823Z
+DTSTAMP:20261125T170140Z
 DTSTART;TZID=America/Chicago:20270309T193000
 DTEND;TZID=America/Chicago:20270309T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Richland HS Varsity

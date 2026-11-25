@@ -1,7 +1,7 @@
 import json, urllib.request, datetime, os, re
 API="https://resources.friscoisd.org/api/Calendar/Events"
-FILTERS={"reedy":lambda e: e.get("isVarsity") and e.get("sport") in {"Basketball","Baseball","Soccer","Football"}}
-SCHOOLS={"reedy":"Reedy HS Varsity (Basketball, Baseball, Soccer, Football)","pioneer-heritage":"Pioneer Heritage MS Athletics"}
+FILTERS={"reedy":lambda e: e.get("isVarsity") and e.get("gender")=="Boys" and e.get("sport") in {"Basketball","Baseball","Soccer","Football"}}
+SCHOOLS={"reedy":"Reedy HS Boys Varsity (Basketball, Baseball, Soccer, Football)","pioneer-heritage":"Pioneer Heritage MS Athletics"}
 def fetch(slug):
     items,page=[],1
     to=(datetime.date.today()+datetime.timedelta(days=365)).isoformat()
