@@ -1,6 +1,7 @@
 import json, urllib.request, datetime, os, re
 API="https://resources.friscoisd.org/api/Calendar/Events"
-SCHOOLS={"reedy":"Reedy HS Athletics","pioneer-heritage":"Pioneer Heritage MS Athletics"}
+FILTERS={"reedy":lambda e: e.get("isVarsity") and e.get("sport") in {"Basketball","Baseball","Soccer","Football"}}
+SCHOOLS={"reedy":"Reedy HS Varsity (Basketball, Baseball, Soccer, Football)","pioneer-heritage":"Pioneer Heritage MS Athletics"}
 def fetch(slug):
     items,page=[],1
     to=(datetime.date.today()+datetime.timedelta(days=365)).isoformat()
@@ -51,5 +52,6 @@ def ics(name,items):
 os.makedirs("docs",exist_ok=True)
 for slug,name in SCHOOLS.items():
     items=fetch(slug)
+    if slug in FILTERS: items=[e for e in items if FILTERS[slug](e)]
     open(f"docs/{slug}.ics","w",newline="").write(ics(name,items))
     print(slug,len(items))
