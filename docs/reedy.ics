@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b254f8df-692e-4c65-b1f2-61a09ae876dd@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Frisco Liberty High
@@ -37,7 +37,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nMap: https://map
 END:VEVENT
 BEGIN:VEVENT
 UID:19052080-8513-48ad-96bd-ea7c8ab7f28e@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261208T193000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Wylie East High School Wylie E
@@ -50,7 +50,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nNon - District\nMap: https://map
 END:VEVENT
 BEGIN:VEVENT
 UID:d0aebcc6-9be8-4c19-9aaa-6be69379e060@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -62,7 +62,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:0372897d-c6d1-4a15-a633-f6daf23c64e8@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -74,7 +74,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:ee0fb97e-6108-4445-a92d-473b11c25a34@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261211T193000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Hebron High School Hebron
@@ -85,7 +85,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nScrimmage\nMap: https://maps.google.
 END:VEVENT
 BEGIN:VEVENT
 UID:76477102-7b7b-487e-a5e4-24c6b858346e@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Coppell Winter Classic (time TB
@@ -97,7 +97,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f511ac-6f2a-4820-a840-5b350981eda4@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Irving High School Irving
@@ -106,7 +106,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nScrimmage\nLocation: Irving HS\nSour
 END:VEVENT
 BEGIN:VEVENT
 UID:10200682-c8b9-4207-ae3b-a6e0ecdde1cb@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Chisholm Trail High School CTHS
@@ -116,7 +116,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nSource: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:453dd643-dab6-4e80-bad2-a6e09d1e1a70@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261218T191500
 DTEND;TZID=America/Chicago:20261218T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ The Colony HS TC Varsity
@@ -127,7 +127,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:0a77c9ce-a475-4842-bcf1-d4138745898b@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261218T191500
 DTEND;TZID=America/Chicago:20261218T201500
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Wakeland HS Wakeland
@@ -139,7 +139,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nScrimmage\nMap: https://maps.google.
 END:VEVENT
 BEGIN:VEVENT
 UID:e2526b5a-48fc-4e67-92ea-4d1d969e126a@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261221T124500
 DTEND;TZID=America/Chicago:20261221T143000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Denton High School DHS Boys Ba
@@ -151,7 +151,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:455dcd0a-3fd9-4899-95b1-46a3d60c09be@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -163,7 +163,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:e1d6aad8-8dab-408f-bc1e-8fcd6bc2eb06@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261228T160000
 DTEND;TZID=America/Chicago:20261228T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Garland HS Garland Owls
@@ -175,7 +175,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nFISD Tournament (Away) -
 END:VEVENT
 BEGIN:VEVENT
 UID:0549b2e3-b857-469d-9c66-a660a7880306@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -187,7 +187,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:e1317709-81bb-4b2b-9a49-f49893bfd6c8@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261229T140000
 DTEND;TZID=America/Chicago:20261229T160000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Nacogdoches High School Dragons
@@ -199,7 +199,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nFISD Tournament (Away) -
 END:VEVENT
 BEGIN:VEVENT
 UID:612f83db-7c6f-488b-a50b-dff580c33c71@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Boys Varsity Basketball: Reedy HS @ In n Out Allen Holiday Invitati
@@ -211,7 +211,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nTournament\nMap: https://maps.go
 END:VEVENT
 BEGIN:VEVENT
 UID:26367b2f-b2d0-4dd8-b2ea-b26c37470153@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20261230T130000
 DTEND;TZID=America/Chicago:20261230T150000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Sachse HS Sachse Mustangs
@@ -223,7 +223,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nTournament\nFISD Tournament (Away) -
 END:VEVENT
 BEGIN:VEVENT
 UID:6780f793-eb29-4137-91d6-55e1806a8931@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270101T120000
 DTEND;TZID=America/Chicago:20270101T133000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Walnut Grove HS Varsity
@@ -236,7 +236,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nNon - District\nMap: https://map
 END:VEVENT
 BEGIN:VEVENT
 UID:c381e2be-6042-40f6-8c57-a29293cb6b92@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270105T191500
 DTEND;TZID=America/Chicago:20270105T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Lone Star HS Lone Star
@@ -247,7 +247,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:494948b5-62c0-4a11-8ff5-3e176cd925e2@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270107T123000
 DTEND;TZID=America/Chicago:20270107T133000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ RL Turner HS RL Turner
@@ -259,7 +259,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Home)\
 END:VEVENT
 BEGIN:VEVENT
 UID:b899e0a5-5835-40f9-a42b-cdef0aefa535@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270108T191500
 DTEND;TZID=America/Chicago:20270108T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Ryan High School Raiders
@@ -270,7 +270,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:fa72bd8b-6c1a-429b-8a5a-c08241462122@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270108T200000
 DTEND;TZID=America/Chicago:20270108T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Woodrow Wilson HS
@@ -282,7 +282,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Away)\
 END:VEVENT
 BEGIN:VEVENT
 UID:1987c273-6331-4a70-aa4e-117213d19e0c@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270109T140000
 DTEND;TZID=America/Chicago:20270109T150000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ North Forney Falcon Soccer
@@ -294,7 +294,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nAllen Tournament (Home)\
 END:VEVENT
 BEGIN:VEVENT
 UID:f610b082-6735-4b74-aef4-c67605e985c5@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270112T191500
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Richland HS Varsity
@@ -306,7 +306,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:6a3c768d-6e4d-4372-aaad-760102eccefe@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270114T164500
 DTEND;TZID=America/Chicago:20270114T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Summit High School Jaguars
@@ -318,7 +318,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
 END:VEVENT
 BEGIN:VEVENT
 UID:9d8480a8-b130-45f6-a760-7841a33bdafa@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270115T164500
 DTEND;TZID=America/Chicago:20270115T180000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Little Elm High School Lobos
@@ -331,7 +331,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
 END:VEVENT
 BEGIN:VEVENT
 UID:d4b508eb-2306-4bb5-b618-268e449c2fa4@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270116T113000
 DTEND;TZID=America/Chicago:20270116T120000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Flower Mound HS Flower Mound
@@ -343,7 +343,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nTournament\nMustang Cup Tournament (
 END:VEVENT
 BEGIN:VEVENT
 UID:5f2b6c6d-b377-4801-9f7a-ea933747ea59@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270119T191500
 DTEND;TZID=America/Chicago:20270119T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Panther Creek HS Panther Creek
@@ -354,7 +354,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fb32a8-6dd2-496b-809b-2deaa2f79950@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270122T191500
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs The Colony HS TC Varsity
@@ -365,7 +365,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:3d5fdce3-9b58-4e9c-833a-d6d0539ee071@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270126T191500
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Denton High School DHS Boys Bas
@@ -377,7 +377,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:a1fe90bd-6260-45e9-be3b-0df000b431ed@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270126T193000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Panther Creek HS Panther Creek
@@ -388,7 +388,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:219636a2-8879-481e-8c92-3f1a8b3a33ba@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270129T191500
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Lone Star HS Lone Star
@@ -399,7 +399,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:7ab6d3b0-f0e4-475c-870c-bcc50a7b5d1c@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270129T191500
 DTEND;TZID=America/Chicago:20270129T204500
 SUMMARY:Boys Varsity Soccer: Reedy HS vs The Colony HS The Colony
@@ -411,7 +411,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:22cdf981-03c4-4d3b-aad2-96e7c886707e@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270202T191500
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS @ Ryan High School Raiders
@@ -422,7 +422,7 @@ DESCRIPTION:Boys Varsity Basketball\nAway\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:4723c22c-d817-45e1-81e6-2f057d8c0fff@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Denton High School DHS Boys Soccer
@@ -433,7 +433,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:aa26cc71-7c2e-4511-be80-4a587f9ddffb@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270205T191500
 DTEND;TZID=America/Chicago:20270205T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Richland HS Varsity
@@ -444,7 +444,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:0745e57e-b990-4d1b-80ef-da373015c998@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270205T193000
 DTEND;TZID=America/Chicago:20270205T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Lone Star HS Lone Star
@@ -456,7 +456,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:56d9030f-e92f-4b96-9d30-ba692b3f2515@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270209T193000
 DTEND;TZID=America/Chicago:20270209T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Ryan High School Raiders
@@ -467,7 +467,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:37b0339e-1791-4579-b1a6-96a45c8fca54@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270212T191500
 DTEND;TZID=America/Chicago:20270212T210000
 SUMMARY:Boys Varsity Basketball: Reedy HS vs Panther Creek HS Panther Creek
@@ -478,7 +478,7 @@ DESCRIPTION:Boys Varsity Basketball\nHome\nDistrict\nMap: https://maps.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:d39319eb-1184-42c4-916e-456608e9f2ef@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270212T193000
 DTEND;TZID=America/Chicago:20270212T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Richland HS Varsity
@@ -490,7 +490,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:a80c24e5-5478-458e-8527-30216be619f3@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270219T193000
 DTEND;TZID=America/Chicago:20270219T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Panther Creek HS Panther Creek
@@ -502,7 +502,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:d6366c8a-ac1a-4d15-85b6-439c4421a8db@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270223T191500
 DTEND;TZID=America/Chicago:20270223T204500
 SUMMARY:Boys Varsity Soccer: Reedy HS @ The Colony HS The Colony
@@ -514,7 +514,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:71b04498-ee63-4df1-9840-5d805e6829ef@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270226T193000
 DTEND;TZID=America/Chicago:20270226T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Denton High School DHS Boys Soccer
@@ -526,7 +526,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:b53dc3cc-64d9-4c8d-b7f1-97994c4ceabf@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270302T193000
 DTEND;TZID=America/Chicago:20270302T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Lone Star HS Lone Star
@@ -537,7 +537,7 @@ DESCRIPTION:Boys Varsity Soccer\nAway\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:dcc3b573-b8c3-4562-83ba-64be288a72d0@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270305T193000
 DTEND;TZID=America/Chicago:20270305T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS vs Ryan High School Raiders
@@ -549,7 +549,7 @@ DESCRIPTION:Boys Varsity Soccer\nHome\nDistrict\nMap: https://maps.google.c
 END:VEVENT
 BEGIN:VEVENT
 UID:e70c8465-3e5e-4875-a7c9-39f4015f5e76@fisd-athletics
-DTSTAMP:20261127T164608Z
+DTSTAMP:20261128T012916Z
 DTSTART;TZID=America/Chicago:20270309T193000
 DTEND;TZID=America/Chicago:20270309T210000
 SUMMARY:Boys Varsity Soccer: Reedy HS @ Richland HS Varsity
